@@ -1,3 +1,28 @@
 Nome: Luis
 Matricula: 2022106060033
 Turma: 2 INFO V
+Nome: Luis
+Matricula: 2022106060033
+Turma: 2 INFO V
+Senha: LUIS123
+Nome: Luis
+Matricula: 2022106060033
+Turma: 2 INFO V
+Senha: LUIS123
+Nome: Luis
+Matricula: 2022106060033
+Turma: 2 INFO V
+Senha: LUIS123
+Nome: Luis
+Matricula: 2022106060033
+Turma: 2 INFO V
+Senha: LUIS123
+Nome: LUIS
+Matricula: 2022106060033
+Turma: 2 INFO V
+Senha: luias123
+Nome: Luis
+Matricula: 20222222222222
+Turma: 2 info v
+Senha: LUIAS123
+<classes.Aluno object at 0x000002427933AF50>
